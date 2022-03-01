@@ -1,0 +1,9 @@
+{
+  "title": "Authous List",
+  "description": "Details of the authors for advertisement!",
+  "movies": [
+      { "key": "A", "data": [{ "title": "A-1" }, { "title": "A-2" }, { "title": "A-3" }] },
+       { "key": "B", "data": [{ "title": "B-1" }, { "title": "B-2" }, { "title": "B-3" }] },
+     { "key": "C", "data": [{ "title": "C-1" }, { "title": "C-2" }] },
+    ]
+}
